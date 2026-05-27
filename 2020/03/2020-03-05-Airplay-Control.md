@@ -44,7 +44,7 @@ No, we only used Sendgrid API there and they've contacted us when found the user
 
 **What would be the best solution for the alleged infringement? Are there specific changes the other person can make other than removal? Can the repository be made private?**
 
-They only have to remove teh full code as we are the only copyright owner.
+They only have to remove the full code as we are the only copyright owner.
 
 **Do you have the alleged infringer’s contact information? If so, please provide it.**
 
