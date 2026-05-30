@@ -11,7 +11,7 @@ My name is [private] and our team build and sell apps on the Envato marketplace,
 We have built an app to sell on the Codecanyon platform exclusively. Please check our app from here,
 https://codecanyon.net/item/flirt-firebase-dating-app/23323675
 
-But the user here, has uploaded an illegal and unlicensed copy of our work as an open source. Which we came to after we got an email from Google cloud team that a user has upload our app in his public repo. We already asked teh user to remove our content, but he denied.
+But the user here, has uploaded an illegal and unlicensed copy of our work as an open source. Which we came to after we got an email from Google cloud team that a user has upload our app in his public repo. We already asked the user to remove our content, but he denied.
 
 All the file names, every single line of codes and functions are same and built by us with lots of hardwork, time and patience. But the above user has just uploaded it publicly and is not removing our content.
 

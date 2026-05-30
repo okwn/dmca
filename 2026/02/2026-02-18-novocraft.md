@@ -16,7 +16,7 @@ GitHub
 
 **Please describe the nature of your copyright ownership or authorization to act on the owner's behalf.**
 
-The software in teh offending github repository is the copyrighted property of Novocraft Technologies Sdn Bhd, [private] and I am the [private] and [private] of Novocraft
+The software in the offending github repository is the copyrighted property of Novocraft Technologies Sdn Bhd, [private] and I am the [private] and [private] of Novocraft
 
 **Please provide a detailed description of the original copyrighted work that has allegedly been infringed.**
 
